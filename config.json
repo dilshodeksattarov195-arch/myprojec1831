@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycarse",
+        "uuid": 12480096,
+        "checksum": "noxgl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
